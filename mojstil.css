@@ -1,0 +1,204 @@
+
+ @import url('https://fonts.googleapis.com/css?family=Boogaloo');
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	*{
+		margin:0;
+		padding:0;
+	}
+
+	body{
+		background:#ffc341;
+   		font-family: 'Boogaloo', cursive;
+		color:#fff;
+		font-size:24px;
+		}
+		
+	h1 {
+		text-align:center;
+		font-weight:bold;
+		font-size:26px;
+		color:#fff;
+		margin:10px 0 20px 0;
+		}
+
+	h2,h3,h4,h5,h6 {
+		font-weight:bold;
+		font-size:26px;
+		color:#fff;
+		margin:10px 0 20px 0;
+		}
+		
+	#wrapper{
+		width:940px;
+		margin: 10px auto;
+		border:3px solid #ffc341;
+		border-radius:10px auto;
+		background:#ffc341;
+		}
+		
+	header h1 {
+		float:center;
+		font-size:50px;
+		margin:0 0 18px 10px;
+		}
+		
+	header h2 {
+		float:right;
+		font-size:20px;
+		margin:34 30 18px 0px;
+		font-style:;
+		}
+		
+	nav {
+		background:#CE9D34;
+		font-size:24px;
+		font-weight:bold;
+		height:50px;
+		margin-top:-5px;
+		}
+			
+	nav ul {
+		list-style:none;
+		padding:17px 0 0 20px;
+		}
+	
+	nav a {
+		float:left;
+		text-decoration:none;
+		padding:0px 15px;
+		color:#fff;
+		}	
+		
+	nav a:hover {
+		background-color:#A67E29;
+		}
+	
+	a {
+ 	 	color:#856420;
+  		text-decoration: none;
+		}	
+
+
+	main {
+		overflow:hidden;
+		}
+		
+	content {
+		float:left;
+		width:640px;
+		margin-left:20px;
+		}
+		
+	article {
+		background:#B98D2E;
+		padding:10px;
+		margin-top:20px;
+		}
+		
+	img.levo {
+		float:left;
+		margin:0 3px 3px 0;
+		width:200px;
+		}	
+		
+	img.desno {
+		float:right;
+		margin:0 0 3px 3px;
+		width:200px;
+		}
+
+	img.centar {
+		float:center;
+		margin:0 0 0px 77px;
+		}
+				
+	aside {
+		float:right;
+		width:220px;
+		}
+		
+	aside h3 {
+		font-size:24px;
+		}
+	
+	aside ul {
+		list-style:;
+		color:#fff;
+		margin:15px 0 15px 25px;
+		}	
+
+	aside il {
+		color:#fff;
+		line-height:18px;
+		padding:2px 0px;
+		}
+			
+	aside a:hover {
+			color:#3A2C0E;
+		}	
+
+	a:hover {
+			color:#3A2C0E;
+		}	
+
+	table {
+		border-collapse: collapse;
+		width: 100%;
+		}
+
+	td:hover {
+		background-color:#6A5019;
+	}
+
+	th, td {
+		text-align: center;
+		padding: ;
+		}	
+
+	tr:nth-child(even){background-color:#A67E29}
+	
+	th {
+		background-color:#CE9D34;
+		color: white;
+		}	
+
+	footer {
+		clear:both;
+		background:#CE9D34;
+		}
+				
+	footer p {
+		text-align:center;
+		color:#fff;
+		padding:5px;
+		}				
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+		
+		
+		
+		
